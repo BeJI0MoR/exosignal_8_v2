@@ -3,7 +3,7 @@ const GRID_H    = 7;
 const GRID_W    = 10;   
 const GLIF_SIZE = 8;    
 const CELL_SIZE = 7;    
-const GAP       = 40;   
+const GAP       = 20;   
 
 let RAND        = 0.6;  // Плотность (меняется через Q/W)
 let glyphs      = [];   // Сетка генерации
