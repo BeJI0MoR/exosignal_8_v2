@@ -12,7 +12,7 @@ let cursorX     = 0;
 let cursorY     = 0;
 
 function setup() {
-  createCanvas(800, 800); 
+  createCanvas(800, 700); 
   noStroke();
   generateGlyphs();
 } 
